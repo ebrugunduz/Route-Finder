@@ -9,7 +9,7 @@
   "dependencies": {
     "@mapbox/polyline": "^1.0.0",
     "axios": "^0.18.0",
-    "expo": "^32.0.6",
+    "expo": "^46.0.16",
     "prop-types": "^15.7.2",
     "react": "16.8.3",
     "react-native": "0.59.4",
